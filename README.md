@@ -8,4 +8,7 @@ HEXO+git搭建博客：http://www.cylong.com/
 21分钟入门Git：http://xuyuan923.github.io/2014/10/17/git-tutorial/  
 多态桌面版：https://duotai.org/ 
 cloudman:http://www.cnblogs.com/CloudMan6/  
+麻瓜python编程问题：https://ajkipper.gitbooks.io/mugglecoding-questions/content/Plan-for-combating.html  
+开源中国：http://www.oschina.net/
+易科机器人实验室：http://blog.exbot.net/
 
