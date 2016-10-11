@@ -9,6 +9,6 @@ HEXO+git搭建博客：http://www.cylong.com/
 多态桌面版：https://duotai.org/ 
 cloudman:http://www.cnblogs.com/CloudMan6/  
 麻瓜python编程问题：https://ajkipper.gitbooks.io/mugglecoding-questions/content/Plan-for-combating.html  
-开源中国：http://www.oschina.net/
+开源中国：http://www.oschina.net/  
 易科机器人实验室：http://blog.exbot.net/
 
