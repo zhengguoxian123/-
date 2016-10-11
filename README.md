@@ -12,7 +12,7 @@ cloudman:http://www.cnblogs.com/CloudMan6/
 开源中国：http://www.oschina.net/  
 易科机器人实验室：http://blog.exbot.net/  
 如何更好地阅读英文论文：http://www.zhihu.com/question/19962502  
-Ros-robot:http://www.ros-robot.com/ 
+Ros-robot:http://www.ros-robot.com/  
 devstack:http://docs.openstack.org/developer/devstack/  
 
 
