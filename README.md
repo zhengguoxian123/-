@@ -2,6 +2,8 @@
 常用链接收藏  
 廖学峰的官方网站：http://www.liaoxuefeng.com/  
 HEXO+git搭建博客：http://www.cylong.com/  
+使用hexo，如果换了电脑怎么更新博客:https://www.zhihu.com/question/21193762  
+Yovil's Blog:http://www.yovisun.com/  
 网页爬虫：http://www.jianshu.com/notebooks/4220957/latest  
 想学大数据、云技术、IT人、大学生必读的一篇文章：如何快速掌握一门技术：http://www.aboutyun.com/thread-9899-1-1.html  
 零基础学习openstack【完整中级篇】及openstack资源汇总：http://www.aboutyun.com/thread-10306-1-1.html  
@@ -22,6 +24,9 @@ OpenStack新手开发指南:http://www.aboutyun.com/thread-5242-1-1.html
 OpenStack实践基础知识:http://www.aboutyun.com/thread-13829-1-1.html  
 （hadoop、openstack）开发基础：在Win7下通过XManager(xshell)远程打开eclipse:http://www.aboutyun.com/thread-9716-1-1.html  
 OpenStack Python SDK:http://docs.openstack.org/user-guide/sdk.html  
-实战专家陈沙克：跨越OpenStack学习障碍的正确姿势:http://cloud.51cto.com/art/201507/482722.htm
+实战专家陈沙克：跨越OpenStack学习障碍的正确姿势:http://cloud.51cto.com/art/201507/482722.htm  
+ROS Web Services：http://www.ros.org/news/2015/12/ros-web-services.html  
+github话题精华：http://www.zhihu.com/topic/19566035/top-answers  
+
 
 
