@@ -14,5 +14,13 @@ cloudman:http://www.cnblogs.com/CloudMan6/
 如何更好地阅读英文论文：http://www.zhihu.com/question/19962502  
 Ros-robot:http://www.ros-robot.com/  
 devstack:http://docs.openstack.org/developer/devstack/  
+openstack二次开发：Python API:http://www.aboutyun.com/thread-6747-1-1.html  
+学习OpenStack之 (3)：Devstack Screen 使用技巧:http://www.aboutyun.com/thread-12101-1-1.html  
+使用DevStack安装和配置OpenStack开发环境:http://www.aboutyun.com/thread-8477-1-1.html  
+openstack开发之通过eclipse导入openstack源码（python）高可靠文档:http://www.aboutyun.com/thread-9752-1-1.html  
+OpenStack新手开发指南:http://www.aboutyun.com/thread-5242-1-1.html  
+OpenStack实践基础知识:http://www.aboutyun.com/thread-13829-1-1.html  
+（hadoop、openstack）开发基础：在Win7下通过XManager(xshell)远程打开eclipse:http://www.aboutyun.com/thread-9716-1-1.html  
+OpenStack Python SDK:http://docs.openstack.org/user-guide/sdk.html  
 
 
