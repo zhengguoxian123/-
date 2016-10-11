@@ -22,5 +22,6 @@ OpenStack新手开发指南:http://www.aboutyun.com/thread-5242-1-1.html
 OpenStack实践基础知识:http://www.aboutyun.com/thread-13829-1-1.html  
 （hadoop、openstack）开发基础：在Win7下通过XManager(xshell)远程打开eclipse:http://www.aboutyun.com/thread-9716-1-1.html  
 OpenStack Python SDK:http://docs.openstack.org/user-guide/sdk.html  
+实战专家陈沙克：跨越OpenStack学习障碍的正确姿势:http://cloud.51cto.com/art/201507/482722.htm
 
 
