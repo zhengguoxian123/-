@@ -26,7 +26,9 @@ OpenStack实践基础知识:http://www.aboutyun.com/thread-13829-1-1.html
 OpenStack Python SDK:http://docs.openstack.org/user-guide/sdk.html  
 实战专家陈沙克：跨越OpenStack学习障碍的正确姿势:http://cloud.51cto.com/art/201507/482722.htm  
 ROS Web Services：http://www.ros.org/news/2015/12/ros-web-services.html  
-github话题精华：http://www.zhihu.com/topic/19566035/top-answers  
+github话题精华：http://www.zhihu.com/topic/19566035/top-answers　  　
+eclipse sirius hello word:http://www.eclipse.org/sirius/doc/
+
 
 
 
