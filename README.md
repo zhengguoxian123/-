@@ -28,7 +28,8 @@ OpenStack Python SDK:http://docs.openstack.org/user-guide/sdk.html
 ROS Web Services：http://www.ros.org/news/2015/12/ros-web-services.html  
 github话题精华：http://www.zhihu.com/topic/19566035/top-answers　  　
 Sirius is an Eclipse project:http://www.eclipse.org/sirius/doc/　　
-Sirius User Manual:http://www.eclipse.org/sirius/doc/user/Sirius%20User%20Manual.html 
+Sirius User Manual:http://www.eclipse.org/sirius/doc/user/Sirius%20User%20Manual.html　　
+Sirius/Tutorials/StarterTutorial：https://wiki.eclipse.org/Sirius/Tutorials/StarterTutorial#Install_the_sample_Domain_Model
 
 
 
