@@ -29,7 +29,10 @@ ROS Web Services：http://www.ros.org/news/2015/12/ros-web-services.html
 github话题精华：http://www.zhihu.com/topic/19566035/top-answers　  　
 Sirius is an Eclipse project:http://www.eclipse.org/sirius/doc/　　
 Sirius User Manual:http://www.eclipse.org/sirius/doc/user/Sirius%20User%20Manual.html　　
-Sirius/Tutorials/StarterTutorial：https://wiki.eclipse.org/Sirius/Tutorials/StarterTutorial#Install_the_sample_Domain_Model
+Sirius/Tutorials/StarterTutorial：https://wiki.eclipse.org/Sirius/Tutorials/StarterTutorial#Install_the_sample_Domain_Model　　
+泡泡机器人：http://space.bilibili.com/38737757/#!/index　　
+SLAM：http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5　　
+
 
 
 
