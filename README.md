@@ -32,6 +32,7 @@ Sirius User Manual:http://www.eclipse.org/sirius/doc/user/Sirius%20User%20Manual
 Sirius/Tutorials/StarterTutorial：https://wiki.eclipse.org/Sirius/Tutorials/StarterTutorial#Install_the_sample_Domain_Model　　
 泡泡机器人：http://space.bilibili.com/38737757/#!/index　　
 SLAM：http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5　　
+http://www.yovisun.com/
 
 
 
