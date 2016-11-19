@@ -33,7 +33,7 @@ Sirius/Tutorials/StarterTutorial：https://wiki.eclipse.org/Sirius/Tutorials/Sta
 泡泡机器人：http://space.bilibili.com/38737757/#!/index　　
 SLAM：http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5　　
 http://www.yovisun.com/
-
+微分方程转状态空间表达式：http://www.docin.com/p-1299160666.html
 
 
 
