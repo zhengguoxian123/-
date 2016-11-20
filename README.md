@@ -34,6 +34,7 @@ Sirius/Tutorials/StarterTutorial：https://wiki.eclipse.org/Sirius/Tutorials/Sta
 SLAM：http://www.slamcn.org/index.php/%E9%A6%96%E9%A1%B5　　
 http://www.yovisun.com/
 微分方程转状态空间表达式：http://www.docin.com/p-1299160666.html
+秩和临界表：http://staff.ustc.edu.cn/~jbs/applex3.pdf
 
 
 
