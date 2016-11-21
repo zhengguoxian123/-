@@ -38,5 +38,6 @@ http://www.yovisun.com/
 软件体系结构描述语言：http://www.docin.com/p-206861111.html
 软件开发过程中为什么要建模？：http://blog.sina.com.cn/s/blog_5425acfe0102vxrg.html
 软件体系描述语言：http://wenku.baidu.com/link?url=JAQotnEjcXWBC_-v5QG5PzOQsRJq-8esgHML2h3TY4CcpE_K7Fzf3lHeb5A73oMBPaalf2nQGD0pj0gIhtaLzYATMgKhgTLYNtoBbYWuMnS
-软件体系结构基本概念汇总：http://blog.csdn.net/chenyufeng1991/article/details/47094525
+软件体系结构基本概念汇总：http://blog.csdn.net/chenyufeng1991/article/details/47094525　　
+research:https://www.researchgate.net/
 
