@@ -36,6 +36,6 @@ http://www.yovisun.com/
 微分方程转状态空间表达式：http://www.docin.com/p-1299160666.html
 秩和临界表：http://staff.ustc.edu.cn/~jbs/applex3.pdf　　
 软件体系结构描述语言：http://www.docin.com/p-206861111.html
-
+软件开发过程中为什么要建模？：http://blog.sina.com.cn/s/blog_5425acfe0102vxrg.html
 
 
