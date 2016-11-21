@@ -40,5 +40,6 @@ http://www.yovisun.com/
 软件体系描述语言：http://wenku.baidu.com/link?url=JAQotnEjcXWBC_-v5QG5PzOQsRJq-8esgHML2h3TY4CcpE_K7Fzf3lHeb5A73oMBPaalf2nQGD0pj0gIhtaLzYATMgKhgTLYNtoBbYWuMnS
 软件体系结构基本概念汇总：http://blog.csdn.net/chenyufeng1991/article/details/47094525　　
 research:https://www.researchgate.net/　　
-yulin:https://www.researchgate.net/profile/Huaxi_Yulin_Zhang
+yulin:https://www.researchgate.net/profile/Huaxi_Yulin_Zhang  
+关于元模型（MetaModel）的理解：http://blog.sina.com.cn/s/blog_8077b6d901012iyf.html
 
