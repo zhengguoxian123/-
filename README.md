@@ -43,4 +43,5 @@ research:https://www.researchgate.net/　　
 yulin:https://www.researchgate.net/profile/Huaxi_Yulin_Zhang  
 关于元模型（MetaModel）的理解：http://blog.sina.com.cn/s/blog_8077b6d901012iyf.html
 UML类图关系（泛化 、继承、实现、依赖、关联、聚合、组合）：http://www.cnblogs.com/olvo/archive/2012/05/03/2481014.html
+体系结构、框架、设计模式的区别，并请给出具体的分析说明、具体实例！谢谢！http://bbs.csdn.net/topics/20207669
 
