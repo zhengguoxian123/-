@@ -46,5 +46,6 @@ UML类图关系（泛化 、继承、实现、依赖、关联、聚合、组合�
 体系结构、框架、设计模式的区别，并请给出具体的分析说明、具体实例！谢谢！http://bbs.csdn.net/topics/20207669
 软件体系结构建模：http://wenku.baidu.com/link?url=H64DJMcMpqRQ_5EmvwDqVfiP3c5VeNHRAXeS_QjVrW0pzubpLWAGyJcUr_TbODv5nL5gkiqxSYCuJPV1WuakF4tF_ErqmUHNlLmCXjGaqiC
 张磊：https://www.researchgate.net/profile/Lei_Zhang87
-为什么软件开发要建模及建模的重要性 http://wenku.baidu.com/link?url=1WInzd12A8zaynYNQbvWBQt6POohz5jJTwOtcqayLkhF9CzwM8YTnZoE5vk8NJyMIiqypGLLTdaIeGMRkCNANqzMaT018emohi2W9sWnxCe
+为什么软件开发要建模及建模的重要性 http://wenku.baidu.com/link?url=1WInzd12A8zaynYNQbvWBQt6POohz5jJTwOtcqayLkhF9CzwM8YTnZoE5vk8NJyMIiqypGLLTdaIeGMRkCNANqzMaT018emohi2W9sWnxCe  
+元模型：http://wenku.baidu.com/link?url=S_kdUeSsWqofXb0mDddNlw0__-MJFkiwyxbI62J_0E8GqK-q8Y3P49nrPGj9VwpxbkxOogmloJ95UPExtTjl2yQaBCNitj65H85_ZAdBZc7
 
