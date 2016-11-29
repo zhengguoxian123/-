@@ -48,4 +48,5 @@ UML类图关系（泛化 、继承、实现、依赖、关联、聚合、组合�
 张磊：https://www.researchgate.net/profile/Lei_Zhang87
 为什么软件开发要建模及建模的重要性 http://wenku.baidu.com/link?url=1WInzd12A8zaynYNQbvWBQt6POohz5jJTwOtcqayLkhF9CzwM8YTnZoE5vk8NJyMIiqypGLLTdaIeGMRkCNANqzMaT018emohi2W9sWnxCe  
 元模型：http://wenku.baidu.com/link?url=S_kdUeSsWqofXb0mDddNlw0__-MJFkiwyxbI62J_0E8GqK-q8Y3P49nrPGj9VwpxbkxOogmloJ95UPExtTjl2yQaBCNitj65H85_ZAdBZc7
+知乎SLAM：https://www.zhihu.com/topic/20033502#3314
 
